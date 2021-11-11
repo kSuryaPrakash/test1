@@ -1,0 +1,6 @@
+hi this is 
+p1
+p2
+we are in local repo
+please push us to remote repository
+thanks
