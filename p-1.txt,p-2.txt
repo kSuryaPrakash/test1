@@ -4,5 +4,12 @@ p2
 we are in local repo
 please push us to remote repository
 thanks
+<<<<<<< HEAD
 sorry for my mistakes
 please excuse me
+=======
+im adding these lost two lines through a new branch called "loal branch"
+line-1 : im surya
+line-2 : im happy
+line-3 : im good
+>>>>>>> 3f731442dd62ef786b6460b7f41a4431548350e8
